@@ -13,6 +13,13 @@
     <TextView
         android:text="Dictionary"
         android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/the_word"
+        android:text="The word"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
